@@ -1,3 +1,8 @@
+npm install -g yarn
+cd frontend
+yarn
+yarn dev
+
 # screenshot-to-code
 
 A simple tool to convert screenshots, mockups and Figma designs into clean, functional code using AI. **Now supporting Claude Sonnet 3.5 and Gemini 2.0 Flash!**
